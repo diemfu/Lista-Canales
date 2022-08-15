@@ -11,3 +11,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 
 #EXTINF:-1 , espn
 http://user.tvcluboficial.com/stream/free_D_Munoz/fOT/484.m3u8
+
+#EXTINF:-1 ,prueba
+https://best.globalweb.ru.com/cdn/nuevo3/mono.m3u8
