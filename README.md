@@ -7,7 +7,7 @@ http://canal13-m3u.chorroaeboy.repl.co
 http://chv-m3u.chorroaeboy.repl.co
 
 #EXTINF:-1 ,
-http://186.67.117.178:8081/play/a00x
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCkccyEbqhhM3uKOI6Shm-4Q/live
 
 #EXTINF:-1 ,
 
