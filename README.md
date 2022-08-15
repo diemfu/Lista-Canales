@@ -10,4 +10,4 @@ http://chv-m3u.chorroaeboy.repl.co
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCkccyEbqhhM3uKOI6Shm-4Q/live
 
 #EXTINF:-1 ,TNTS
-http://last.cheches.info:21223/hls/107.m3u8
+https://ed44.zorrohd2.nl/live/ST0e06be36fbc8ba5.m3u
