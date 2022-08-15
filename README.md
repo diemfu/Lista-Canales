@@ -9,5 +9,5 @@ http://chv-m3u.chorroaeboy.repl.co
 #EXTINF:-1 ,Meganoticias
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCkccyEbqhhM3uKOI6Shm-4Q/live
 
-#EXTINF:-1 ,TNTS
-https://ed44.zorrohd2.nl/live/ST0e06be36fbc8ba5.m3u
+#EXTINF:-1 , espn
+http://user.tvcluboficial.com/stream/free_D_Munoz/fOT/484.m3u8
