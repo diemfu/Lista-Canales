@@ -10,4 +10,4 @@ http://chv-m3u.chorroaeboy.repl.co
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCkccyEbqhhM3uKOI6Shm-4Q/live
 
 #EXTINF:-1 ,ESPN
-http://edge.espn.cdn.abacast.net/espn-deportesmp3-48
+http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
