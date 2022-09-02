@@ -6,8 +6,8 @@ http://canal13-m3u.chorroaeboy.repl.co
 #EXTINF:-1 ,Chilevision 
 http://chv-m3u.chorroaeboy.repl.co
 
-#EXTINF:-1 ,Meganoticias
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCkccyEbqhhM3uKOI6Shm-4Q/live
+#EXTINF:-1 ,Mega
+https://us-b4-p-e-pb13.cdn.mdstrm.com/live-stream-dai/53d2c1a32640614e62a0e000/72927288dd604883a21d425d020e50b6/f624fec49dadc88894ebeff1d974eab019af7757/session/8700e5ce-86d7-4382-8102-5888edb9d800/media.m3u8?aid=53bc2bcae41e2d9c662e1ba7&uid=gCFDKPlZT1NZuO3OPk40ULfY8zUipYQD&sid=oMXH79FWTV3hZuCXbEFAzFzNvzWgzrKG&pid=T45OOMnYtkTZ8pfRVuO52me1EuYDbh4b&ref=https%3A%2F%2Fwww.mega.cl%2F&without_cookies=false&listenerid=&dnt=true&access_token=U0glbKV7SlYHoxU0BYQDnXbhNkZPKFz1QWECov8wrcyZjjOYuorwixras5ZkMI0XDHLTs1njpZZ&es=cl-a3-p-e-br5.cdn.mdstrm.com&ote=1662239728957&ot=fkAKz103JxRp_he4bM7iaA&proto=https&pz=cl
 
 #EXTINF:-1 , espn
 http://user.tvcluboficial.com/stream/free_D_Munoz/fOT/484.m3u8
