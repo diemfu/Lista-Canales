@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,Dark 1x6
-https://delivery393.akamai-cdn-content.com/hls2/01/00577/oc283j6dqpj8_,n,h,.urlset/master.m3u8?t=zIvReWeALviMDmS7oOnlgg-Sr3gyUpd1DFxvZvOpi7U&s=1667089675&e=10800&f=2889244&srv=sto092&client=181.163.120.231
-
-#EXTINF:-1 ,Dark 1x7
-https://delivery280.akamai-cdn-content.com/hls2/01/00577/0vn0edscv7y2_,n,h,.urlset/master.m3u8?t=9yr5ZIOIlyBDyOl7SWB270PaHaEC0H8CICx3PS_uWqM&s=1667089843&e=10800&f=2889245&srv=sto024&client=181.163.120.231
-#EXTINF:-1 ,Dark 1x6
-
-#EXTINF:-1 ,Dark 1x6
 
 #EXTINF:-1 ,Canal 13
 http://canal13-m3u.chorroaeboy.repl.co
